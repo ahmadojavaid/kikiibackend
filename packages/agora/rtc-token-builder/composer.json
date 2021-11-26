@@ -1,0 +1,13 @@
+{
+    "name": "agora/rtc-token-builder",
+    "description": "Generate RTC Token for joining channels",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Abid Ali",
+            "email": "bendevquebec@jobesk.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
